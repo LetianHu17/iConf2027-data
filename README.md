@@ -1,4 +1,3 @@
-# iConf2027-data
 # Dataset for *Hedgehogs or Foxes? Early-Career Semantic Trajectories of Highly Accomplished Scientists*
 
 This repository stores the original data for the paper *Hedgehogs or Foxes? Early-Career Semantic Trajectories of Highly Accomplished Scientists*.
